@@ -71,3 +71,23 @@ Editor: Microsoft
 Vínculo de VS Marketplace: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
 
 ```Nos acomoda el codigo```
+
+## 8.
+Nombre: Prettier - Code formatter
+ID: esbenp.prettier-vscode
+Descripción: Code formatter using prettier
+Versión: 11.0.0
+Editor: Prettier
+Vínculo de VS Marketplace: https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
+
+```Nos colorea```
+
+## 9.
+Nombre: vscode-icons
+ID: vscode-icons-team.vscode-icons
+Descripción: Icons for Visual Studio Code
+Versión: 12.8.0
+Editor: VSCode Icons Team
+Vínculo de VS Marketplace: https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons
+
+
